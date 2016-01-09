@@ -3,7 +3,8 @@
  *
  * Description: BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.2.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
  *
- * Homepage: http://bootflat.github.com/
+ * Homepage: http://bootflat.github.com/bootflat/img/check_flat/default.png
+
  *
  * By @Flathemes <info@flathemes.com>
  *
@@ -1081,7 +1082,6 @@ blockquote {
   margin: 0;
   vertical-align: middle;
   cursor: pointer;
-  background: url("../bootflat/img/check_flat/default.png") no-repeat;
   border: none;
 
   *display: inline;
@@ -2616,5 +2616,3 @@ a.list-group-item-danger.active, a.list-group-item-danger:hover, a.list-group-it
   -webkit-border-radius: 4px 0 4px 4px;
      -moz-border-radius: 4px 0 4px 4px;
 }
-
-/*# sourceMappingURL=bootflat.css.map */
